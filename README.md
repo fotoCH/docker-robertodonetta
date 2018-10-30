@@ -13,7 +13,7 @@ geholt werden.
 
 ## Ports
 
-Die Webapp ist unter Port `8082` und MariaDB unter Port `13308` verfügbar.
+Die Webapp ist unter Port `8060` und MariaDB unter Port `4060` und phpmyadmin unter `3060` verfügbar.
 
 
 ## Konfiguration
